@@ -1,7 +1,12 @@
-># Neuryx
-- **Train a deep transformer on your data — then chat with it.**
+# Neuryx
+**Train a deep transformer on your data — then chat with it.**
 
-- No cloud. No API key. Pure Python + optional matplotlib.
+```
+  ███╗   ██╗███████╗██╗   ██╗██████╗ ██╗   ██╗██╗  ██╗
+  General-Purpose Neural AI  ·  v2.0.0
+```
+
+No cloud. No API key. Pure Python + optional matplotlib.
 
 ---
 
@@ -22,7 +27,7 @@
 ```bash
 pip install matplotlib openpyxl     # optional — for graphs
 sudo apt-get install python3-tk     # optional — for chat GUI (Linux)
-python neuryx_v2.py
+python neuryx.py
 ```
 
 ## Sample Datasets (included)

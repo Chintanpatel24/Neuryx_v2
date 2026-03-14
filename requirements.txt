@@ -1,0 +1,14 @@
+# Neuryx — Python dependencies
+#
+# Core engine runs on Python stdlib ONLY — no entries required.
+# Install optionals below to unlock extra features:
+
+# Live training graphs + post-training dashboard
+matplotlib>=3.7.0
+
+# Excel (.xlsx / .xls) file loading
+openpyxl>=3.1.0
+
+# Chat window GUI  (Linux: sudo apt-get install python3-tk)
+# tkinter is part of the Python standard library on Windows/macOS
+# On Ubuntu/Debian it must be installed separately — see README
