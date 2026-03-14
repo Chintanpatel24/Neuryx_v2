@@ -22,7 +22,7 @@
 ```bash
 pip install matplotlib openpyxl     # optional — for graphs
 sudo apt-get install python3-tk     # optional — for chat GUI (Linux)
-python neuryx.py
+python neuryx_v2.py
 ```
 
 ## Sample Datasets (included)
