@@ -1,12 +1,7 @@
 # Neuryx
-**Train a deep transformer on your data — then chat with it.**
 
-```
-  ███╗   ██╗███████╗██╗   ██╗██████╗ ██╗   ██╗██╗  ██╗
-  General-Purpose Neural AI  ·  v2.0.0
-```
-
-No cloud. No API key. Pure Python + optional matplotlib.
+- **Train a deep transformer on your data — then chat with it.**
+- No cloud. No API key. Pure Python + optional matplotlib.
 
 ---
 
