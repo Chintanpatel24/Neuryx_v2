@@ -23,8 +23,9 @@
 git clone https://github.com/Chintanpatel24/Neuryx_v2.git
 cd Neuryx_v2
 python3 neuryx_v2.py
-
-# Optional but recommended — for charts
+```
+## Optional but recommended — for charts
+```bash
 pip install matplotlib openpyxl     # optional — for graphs
 sudo apt-get install python3-tk     # optional — for chat GUI (Linux)
 python neuryx_v2.py
