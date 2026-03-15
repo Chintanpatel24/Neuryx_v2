@@ -1,4 +1,6 @@
-# Neuryx
+<div align=center>
+<img src = images/title.png>
+</div>
 
 - **Train a deep transformer on your data — then chat with it.**
 - No cloud. No API key. Pure Python + optional matplotlib.
